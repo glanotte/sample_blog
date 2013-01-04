@@ -1,0 +1,7 @@
+== This is only a test
+
+This application is just a short example of how you can accept JSON data in a controller and save that record to a database.
+
+== To use
+
+Run the specs.
